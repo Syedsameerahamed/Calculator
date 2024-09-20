@@ -19,23 +19,6 @@ Getting Started
 Prerequisites
 Ensure you have Python 3.x installed on your machine.
 
-## Installation
-Clone this repository:
-bash
-Copy code
-git clone https://github.com/yourusername/calculator.git
-Navigate to the project directory:
-bash
-Copy code
-cd calculator
-Running the Calculator
-### Run the calculator script:
-
-bash
-Copy code
-python Calculator.py
-Follow the on-screen instructions to input numbers and select an operation.
-
 ### Example Usage
 mathematica
 Copy code
