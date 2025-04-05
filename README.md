@@ -1,4 +1,4 @@
-# Calculator
+# Calculator Using Python
 This project is a simple calculator program implemented in Python. It performs basic arithmetic operations like addition, subtraction, multiplication, and division. The program takes user input for the two numbers and the operation to be performed.
 
 ## Project Overview
